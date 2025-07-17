@@ -1,5 +1,5 @@
 ## Hi there I'm Azalia Flores 👋
-I'm a third-year Computer Systems Engineering student based in Honduras, with a strong passion for programming and building meaningful digital experiences. I thrive in environments where creativity, logic, and teamwork come together.
+I'm a third-year Computer Systems Engineering student based in Honduras, with a strong passion for programming and building meaningful digital experiences. 
 
 ✨ I’m especially interested in:
 - Front-End Development
