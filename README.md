@@ -52,6 +52,16 @@ I'm continuously working to grow as a developer and contribute to innovative pro
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AzaliaFlores19&layout=compact&theme=radical)](https://github.com/AzaliaFlores19)
 
 ---
+```ascii
+╭───────────────────────────────╮
+│  ╔═════════════════════════╗  │
+│  ║                         ║  │
+│  ║    > C:\GITHUB\LOVE     ║  │
+│  ║                         ║  │
+│  ║       [♥ CODE ♥]        ║  │
+│  ║                         ║  │
+│  ╚═════════════════════════╝  │
+╰───────────────────────────────╯
 
 
 
