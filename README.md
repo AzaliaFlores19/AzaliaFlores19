@@ -52,13 +52,7 @@ I'm continuously working to grow as a developer and contribute to innovative pro
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AzaliaFlores19&layout=compact&theme=radical)](https://github.com/AzaliaFlores19)
 
 ---
-<hr>
 
-<h3 align="center">🎮 Tetris Animation</h3>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzh3aGY2ZjNrdmhiMThlemFxcjd5bHJrc21uazZoMGpndnY3NWp2ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/f7STAwvEml1eIf0FEq/giphy.gif" alt="Tetris animation" />
-</p>
 
 
 
