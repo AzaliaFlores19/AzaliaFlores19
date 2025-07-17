@@ -9,7 +9,30 @@ I'm a third-year Computer Systems Engineering student based in Honduras, with a 
 - Team Organization & Workflow Optimization
 - Personal and Professional Resilience
 
-I'm continuously working to grow as a developer and contribute to innovative projects that make a difference.
+I'm continuously working to grow as a developer and contribute to innovative projects that make a difference. I’m always eager to learn about new technologies and stay up-to-date in my field.
+
+---
+
+## 🛠️ Technologies & Tools
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
+![Firebird](https://img.shields.io/badge/-Firebird-FF6600?style=flat-square&logo=data:image/svg+xml;base64,...)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwindcss)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+
+---
+
+## 📈 GitHub Stats
+
+[![Yamileth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YamilethSuarez&show_icons=true&theme=radical)](https://github.com/YamilethSuarez)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YamilethSuarez&layout=compact&theme=radical)](https://github.com/YamilethSuarez)
+
+---
+
 
 
 
