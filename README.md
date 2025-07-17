@@ -15,13 +15,26 @@ I'm continuously working to grow as a developer and contribute to innovative pro
 
 ## 🛠️ Technologies & Tools
 
+![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
-![Firebird](https://img.shields.io/badge/-Firebird-FF6600?style=flat-square&logo=data:image/svg+xml;base64,...)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwindcss)
+![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=c-sharp)
+
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![SQLite](https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=sqlite)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+![Oracle](https://img.shields.io/badge/-Oracle-black?style=flat-square&logo=oracle)
+![Firebird](https://img.shields.io/badge/-Firebird-FF6600?style=flat-square&logo=firefox)
+
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![NPM](https://img.shields.io/badge/-NPM-black?style=flat-square&logo=npm)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+![Sequelize](https://img.shields.io/badge/-Sequelize-black?style=flat-square&logo=sequelize)
+
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwindcss)
+![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+
 
 ---
 
