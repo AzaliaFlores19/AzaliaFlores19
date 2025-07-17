@@ -37,6 +37,20 @@ I'm continuously working to grow as a developer and contribute to innovative pro
 ![Trello](https://img.shields.io/badge/-Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
+<div align="center">
+  <!-- Java -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java logo" width="40" height="40" />
+  <p>Java</p>
+
+  <!-- C# -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C# logo" width="40" height="40" />
+  <p>C#</p>
+
+  <!-- Oracle -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle logo" width="40" height="40" />
+  <p>Oracle</p>
+</div>
+
 
 ---
 
