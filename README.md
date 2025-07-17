@@ -1,6 +1,6 @@
 ## Hi there I'm Azalia Flores 👋
+Computer Systems Engineering student at UNITEC Honduras 
 
-💻 Software Developer | 🔬 Technology Enthusiast | 🚀 Always Learning
 
 <!--
 **AzaliaFlores19/AzaliaFlores19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
