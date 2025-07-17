@@ -1,5 +1,16 @@
 ## Hi there I'm Azalia Flores 👋
-Computer Systems Engineering student at UNITEC Honduras 
+I'm a third-year Computer Systems Engineering student based in Honduras, with a strong passion for programming and building meaningful digital experiences. I thrive in environments where creativity, logic, and teamwork come together.
+
+✨ I’m especially interested in:
+- Front-End Development
+- Project Management
+- User Experience (UX) Improvement
+- Web Development
+- Team Organization & Workflow Optimization
+- Personal and Professional Resilience
+
+I'm continuously working to grow as a developer and contribute to innovative projects that make a difference.
+
 
 
 <!--
