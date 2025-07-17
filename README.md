@@ -27,9 +27,9 @@ I'm continuously working to grow as a developer and contribute to innovative pro
 
 ## 📈 GitHub Stats
 
-[![Yamileth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YamilethSuarez&show_icons=true&theme=radical)](https://github.com/YamilethSuarez)
+[![Yamileth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AzaliaFlores19&show_icons=true&theme=radical)](https://github.com/AzaliaFlores19)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YamilethSuarez&layout=compact&theme=radical)](https://github.com/YamilethSuarez)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AzaliaFlores19&layout=compact&theme=radical)](https://github.com/AzaliaFlores19)
 
 ---
 
