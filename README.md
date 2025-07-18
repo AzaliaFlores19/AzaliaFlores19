@@ -52,16 +52,23 @@ I'm continuously working to grow as a developer and contribute to innovative pro
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AzaliaFlores19&layout=compact&theme=radical)](https://github.com/AzaliaFlores19)
 
 ---
+## 💬 Dev Quote
+
+> “A computer is like a violin: you can imagine it making beautiful music, but you have to learn how to play it.”
+>
+> — **Bill Gates**
+
+---
 ```ascii
-      ╭───────────────────────────────╮
-      │  ╔═════════════════════════╗  │
-      │  ║                         ║  │
-      │  ║    > C:\GITHUB\LOVE     ║  │
-      │  ║                         ║  │
-      │  ║       [♥ CODE ♥]        ║  │
-      │  ║                         ║  │
-      │  ╚═════════════════════════╝  │
-      ╰───────────────────────────────╯
+╭───────────────────────────────╮
+│  ╔═════════════════════════╗  │
+│  ║                         ║  │
+│  ║    > C:\GITHUB\LOVE     ║  │
+│  ║                         ║  │
+│  ║       [♥ CODE ♥]        ║  │
+│  ║                         ║  │
+│  ╚═════════════════════════╝  │
+╰───────────────────────────────╯
 ```
 
 
