@@ -16,7 +16,7 @@ What I like most is seeing a product work as a whole: the interface someone uses
 
 ## Featured work
 
-### 🧾 Koara — Billing & Administration System
+### 🧾 Koara Billing & Administration System
 University outreach project. A centralized billing, POS, and inventory system.
 I led the team of 4 as **Scrum Master** and built the front-end in
 **Next.js 16 + React 19 + TypeScript + Tailwind CSS 4**, alongside a **NestJS** backend for sales,
@@ -28,7 +28,7 @@ billing, and real-time inventory, with Cloudflare R2 storage, JWT auth, and SAR 
 
 ---
 
-### ⛪ Seminario Menor Santiago Apóstol — Frappe/ERP System
+### ⛪ Seminario Menor Santiago Apóstol Frappe/ERP System
 Real client project with a team of three. A custom **Frappe** app that manages seminarians,
 documents, assets, staff, and finances.
 
@@ -40,7 +40,7 @@ dashboards, and collaborating on the project's CI/CD built with **GitHub Actions
 
 ---
 
-### ☀️ MIDAS — Solar Proposal Generator
+### ☀️ MIDAS Solar Proposal Generator
 Real client project built with a teammate for **Corporación Midas**. A Frappe app that turns a
 quotation into a technical and financial EPC solar proposal, exported to PDF and Word with charts —
 containerized and shipped with a full CI/CD pipeline.
@@ -55,7 +55,7 @@ push.
 
 ---
 
-### 🎬 Bora Log — Series Tracker
+### 🎬 Bora Log Series Tracker
 Personal project (in progress). Log the series you watch, rate them, leave comments, and add your
 own custom classifications, using the **TMDB API**. Built with **Prisma + PostgreSQL**, JWT
 authentication, and email notifications; adding a CI/CD pipeline.
