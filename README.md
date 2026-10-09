@@ -3,8 +3,8 @@
 Full-stack developer from San Pedro Sula, Honduras. I'm finishing my Computer Systems Engineering degree at UNITEC (graduating 2027), and lately I've been spending most of my time on the DevOps side with Docker, GitHub Actions, deployments.
 
 What I like most is seeing a product work as a whole: the interface someone uses, the API behind it, and how it gets out into the world.
+  
 
----
 
 ## A bit about how I work
 
@@ -12,7 +12,14 @@ What I like most is seeing a product work as a whole: the interface someone uses
 - I was **Scrum Master** for a 4-person team, so organizing work and keeping it moving comes naturally.
 - Real client work on Frappe/ERP systems taught me to care about building things that actually hold up in use.
 
+
+## Let's connect
+
+- LinkedIn: [azalia-flores-27b28930b](https://www.linkedin.com/in/azalia-flores-27b28930b)
+- Email: azaflosz19@gmail.com
+
 ---
+  
 
 ## Featured work
 
@@ -116,13 +123,6 @@ authentication, and email notifications; adding a CI/CD pipeline.
 [![Azalia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AzaliaFlores19&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/AzaliaFlores19)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AzaliaFlores19&layout=compact&theme=radical)](https://github.com/AzaliaFlores19)
-
----
-
-## Let's connect
-
-- LinkedIn: [azalia-flores-27b28930b](https://www.linkedin.com/in/azalia-flores-27b28930b)
-- Email: azaflosz19@gmail.com
 
 ---
   
