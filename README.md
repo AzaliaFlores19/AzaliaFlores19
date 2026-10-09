@@ -118,6 +118,14 @@ authentication, and email notifications; adding a CI/CD pipeline.
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AzaliaFlores19&layout=compact&theme=radical)](https://github.com/AzaliaFlores19)
 
 ---
+
+## Let's connect
+
+- LinkedIn: [azalia-flores-27b28930b](https://www.linkedin.com/in/azalia-flores-27b28930b)
+- Email: azaflosz19@gmail.com
+
+---
+  
 ## 💬 Dev Quote
 
 > “A computer is like a violin: you can imagine it making beautiful music, but you have to learn how to play it.”
